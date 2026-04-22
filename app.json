@@ -1,0 +1,13 @@
+{
+  "android": {
+    "package": "com.mydomain4396.dizzy"
+  },
+  "ios": {
+    "bundleIdentifier": "com.mydomain4396.dizzy"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "9079d811-7d85-4304-b2ac-b632ad115aa1"
+    }
+  }
+}
